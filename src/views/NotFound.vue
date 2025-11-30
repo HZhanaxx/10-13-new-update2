@@ -1,0 +1,2 @@
+<template><div class="error-page"><div class="error-content"><h1>404</h1><h2>页面未找到</h2><p>您访问的页面不存在</p><button @click="$router.push('/dashboard')" class="btn btn-primary">返回首页</button></div></div></template>
+<style scoped>.error-page { min-height: 100vh; display: flex; align-items: center; justify-content: center; } .error-content { text-align: center; } .error-content h1 { font-size: 80px; }</style>
