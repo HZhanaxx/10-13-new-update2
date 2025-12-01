@@ -1,0 +1,26 @@
+
+
+// shadcn-vue inspired components
+export { default as Button } from './Button.vue'
+export { default as Card } from './Card.vue'
+export { default as CardHeader } from './CardHeader.vue'
+export { default as CardTitle } from './CardTitle.vue'             // 新增
+export { default as CardDescription } from './CardDescription.vue' // 新增
+export { default as CardContent } from './CardContent.vue'
+export { default as CardFooter } from './CardFooter.vue'
+export { default as Input } from './Input.vue'
+export { default as Textarea } from './Textarea.vue'
+export { default as Label } from './Label.vue'
+export { default as Select } from './Select.vue'
+export { default as Checkbox } from './Checkbox.vue'
+export { default as Badge } from './Badge.vue'
+export { default as Progress } from './Progress.vue'
+export { default as Alert } from './Alert.vue'
+export { default as Dialog } from './Dialog.vue'
+export { default as Avatar } from './Avatar.vue'
+export { default as Separator } from './Separator.vue'
+export { default as Skeleton } from './Skeleton.vue'
+export { default as Tabs } from './Tabs.vue'
+export { default as TabsList } from './TabsList.vue'
+export { default as TabsTrigger } from './TabsTrigger.vue'
+export { default as TabsContent } from './TabsContent.vue'
